@@ -20,3 +20,12 @@ C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\obj\Debug\netcoreapp
 C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorAssemblyInfo.cs
 C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
 C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Users\gelarehf\source\repos\GeliDr\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.genruntimeconfig.cache
