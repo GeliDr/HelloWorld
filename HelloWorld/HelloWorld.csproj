@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <StartupObject></StartupObject>
+	<OutputType>Exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
