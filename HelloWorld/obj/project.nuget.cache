@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "d7tSjJqPEG/b0d2xBXIA4ttGuaAOSYwncTA3CFm+hlI2dncShO6c1Yjmhqw1q8fXL4cjOu1stMam4yeTTbffHA==",
+  "dgSpecHash": "cMk3dNT3BT3mbyf8/I5QVAnUZMRVONEe09wu6fQH5Lo4qMmB7b9ohM4p9VhvtlTj4lno9Xh6dmwUFHqjyXF4sA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gelarehf\\source\\repos\\GeliDr\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gelarehf\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
     "C:\\Users\\gelarehf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\gelarehf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],
