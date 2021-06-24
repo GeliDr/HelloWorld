@@ -47,18 +47,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
-            },
-            "Microsoft.Build": {
-              "target": "Package",
-              "version": "[16.10.0, )"
-            },
-            "Microsoft.Build.Framework": {
-              "target": "Package",
-              "version": "[16.10.0, )"
-            },
-            "Microsoft.Build.Utilities.Core": {
-              "target": "Package",
-              "version": "[16.10.0, )"
             }
           },
           "imports": [
