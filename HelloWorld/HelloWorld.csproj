@@ -15,5 +15,10 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     
   </ItemGroup>
+  <Target Name="AfterBuild"
+    Outputs="%(Reference.RequiredTargetFramework)">
+    <Message Text="Reference:
+      @(Reference->'%(RequiredTargetFramework)')" />
+  </Target>
 
 </Project>
